@@ -5,3 +5,9 @@ print("Hello " + "Jay")
 input("What is your name?")
 print("Hello" + input("What is your name?"))
 print(len(input("What is your name? ")))
+name = "Jay"
+print(name)
+name = "Angela"
+print(name)
+length = len(name)
+print(length)
